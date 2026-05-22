@@ -1,46 +1,75 @@
-## 👋 Hello, I'm Sneha
+# Hey, I'm Sneha 👋
 
-AI/ML enthusiast and developer with a focus on building intelligent systems, designing educational content, and working on data-driven applications. I enjoy simplifying complex concepts and turning ideas into working solutions using Python, machine learning, and deep learning.
+I'm a **Data Science mentor and ML engineer** based in Kerala, India. I help people *actually understand* machine learning — not just copy-paste code, but build real intuition. Outside of teaching, I build models across computer vision, NLP, and generative AI.
+
+If you're a recruiter, a student, or someone with a data problem that needs solving — you're in the right place.
+
+---
+
+## What I Do
+
+**🧠 Machine Learning & Deep Learning**  
+End-to-end model development — from messy raw data to deployed, evaluated solutions. I work with classification, regression, time-series forecasting, and neural architectures.
+
+**👁️ Computer Vision**  
+Image classification, object detection, and visual data pipelines. I've built systems that go beyond notebooks into actual working applications.
+
+**💬 NLP & Generative AI**  
+Text classification, embeddings, LLM-based pipelines, and prompt engineering. Currently deepening work in RAG systems and fine-tuning open-source models.
+
+**🎓 Teaching & Mentorship**  
+I break down hard concepts — deep learning architectures, feature engineering, EDA — into things that actually make sense. I've helped beginners go from zero to building real projects.
+
+---
+
+## Projects Worth Looking At
+
+### 🏥 [care_pat](https://github.com/sikaneka/care_pat)
+An IoT + ML smart environment system for people with limited mobility. Combines sensor data, adaptive controls, and a Flutter interface. The ML layer adjusts environment settings based on user behavior patterns.  
+`IoT` `Flutter` `ML` `Sensors`
+
+---
+
+### 📈 [StockFusion](https://github.com/sikaneka/StockFusion)
+Stock price prediction comparing LSTM, Linear Regression, SVR, and Random Forest on real historical data. Built to understand *when* deep learning actually beats classical models — and when it doesn't.  
+`LSTM` `Time Series` `scikit-learn` `Python`
+
+---
+
+### 📊 [EDA Playbook](https://github.com/sikaneka/EDA)
+A hands-on EDA reference I built for students. Covers the full workflow with real datasets, visualizations, and explanations written for humans, not documentation bots.  
+`Pandas` `Matplotlib` `Seaborn` `Python`
+
+---
+
+## Currently Working On
+
+- 🔧 Building a RAG pipeline using open-source LLMs for a document Q&A use case
+- 📝 Developing structured mentorship content on deep learning fundamentals
+- 🧪 Experimenting with model interpretability tools (SHAP, LIME) for production ML
+
+---
+
+## Tech I Actually Use
+
+```python
+languages   = ["Python", "SQL", "R"]
+ml_dl       = ["scikit-learn", "TensorFlow", "Keras", "PyTorch"]
+cv_nlp      = ["OpenCV", "HuggingFace Transformers", "spaCy"]
+data        = ["Pandas", "NumPy", "Matplotlib", "Seaborn"]
+tools       = ["Git", "Jupyter", "Flask", "Streamlit", "Firebase"]
+```
+
+---
+
+## Let's Connect
+
+I'm open to **data scientist roles**, **freelance ML projects**, and **mentorship collaborations**.
+
+📧 [snehasureshniha@gmail.com](mailto:snehasureshniha@gmail.com)  
+💼 [LinkedIn](www.linkedin.com/in/sneha-a-06a945214)
 
 
 ---
 
-### 🧑‍🏫 Teaching & Mentorship
-
-I actively prepare content and walkthroughs on:
-- Intro to ML for Beginners
-- Deep Learning (with diagrams & practical examples)
-- SQL for Data Professionals
-- EDA & Feature Engineering
-
----
-
-### 📘 Learning Goals
-
-- Expand expertise in generative AI and model interpretability  
-- Build robust, production-ready ML pipelines  
-- Integrate autoencoders and GANs into real-world use cases  
-- Contribute to open-source AI education tools
-
----
-
-
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:snehasureshniha@gmail.com) 
-
-## 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
-## 📊 GitHub Stats:
-
-![](https://nirzak-streak-stats.vercel.app/?user=sikaneka&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sikaneka&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sikaneka&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=sikaneka&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
+> *"The goal is not to memorize algorithms. It's to understand data well enough that the right algorithm becomes obvious."*
