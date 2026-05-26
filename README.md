@@ -66,7 +66,7 @@ tools       = ["Git", "Jupyter", "Flask", "Streamlit", "Firebase"]
 
 I'm open to **data scientist roles**, **freelance ML projects**, and **mentorship collaborations**.
 
-📧 [snehasureshniha@gmail.com](mailto:snehasureshniha@gmail.com)  
+📧 [Gmail](mailto:snehasureshniha@gmail.com)  
 💼 [LinkedIn](www.linkedin.com/in/sneha-a-06a945214)
 
 
